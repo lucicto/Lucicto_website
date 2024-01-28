@@ -170,9 +170,15 @@ section {
 
 .section__pic-container {
     display: flex;
+    height: 600px;
+    width: 600px;
+    margin: auto 0;
+}
+
+.profile-pic {
+    border-radius: 50%;
     height: 400px;
     width: 400px;
-    margin: auto 0;
 }
 
 .section__text {
@@ -284,7 +290,7 @@ section {
 }
 
 .about-pic {
-    border-radius: 2rem;
+    border-radius: 4rem;
 }
 
 .arrow {
@@ -309,12 +315,12 @@ section {
 }
 
 .section__pic-container {
-    height: 600px;
-    width: 600px;
+    height: 400px;
+    width: 400px;
     margin: auto 0;
 }
 
-/*experience sectiuon*/
+/*experience section*/
 
 #experience {
     position: relative;
@@ -338,7 +344,7 @@ section {
     text-align: initial;
     flex-wrap: wrap;
     flex-direction: row;
-    gap: 2.5rem;
+    gap: 0.5rem;
     justify-content: space-around;
 }
 

@@ -31,7 +31,7 @@
         height: fit-content;
     }
     section {
-        margin: 0 5%;
+        margin: 0 3%;
     }
     .section__pic-contianer {
         width: 275px;
@@ -72,7 +72,7 @@
         font-size: 1rem;
     }
     .experience-sub-title {
-        font-size: 1.25rem;
+        font-size: 2rem;
     }
     .logo {
         font-size: 1.5rem;
