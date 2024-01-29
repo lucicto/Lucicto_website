@@ -273,7 +273,7 @@ section {
 }
 
 .about-containers {
-    gap: rem;
+    gap: 1rem;
     margin-bottom: 2rem;
     margin-top: 2rem;
 }
