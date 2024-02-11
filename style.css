@@ -7,9 +7,10 @@
 }
 
 body {
-    font-family: "Space Mono", monospace;
-    font-weight: 400;
-    font-style: normal;
+    font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
 }
 
 html {
@@ -32,13 +33,14 @@ nav,
 .nav-links {
     display: flex;
     text-align: center;
+    padding: 0px;
 }
 
 nav {
-    justify-content: left;
+    justify-content: center;
     align-items: center;
     height: 10vh;
-    margin-left: 115px;
+    /* margin-left: 115px; */
 }
 
 .nav-links {
