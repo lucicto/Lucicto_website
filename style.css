@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Changa&family=Roboto+Mono:wght@200&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap')
 
 * {
     margin:0;
@@ -7,10 +7,7 @@
 }
 
 body {
-    font-family: "Roboto Mono", monospace;
-  /* font-optical-sizing: auto;
-  font-weight: 200;
-  font-style: normal; */
+    font-family: "Manrope", sans-serif;
 }
 
 html {
@@ -56,7 +53,7 @@ a {
 }
 
 a:hover {
-    color: black;
+    color: rgb(255, 0, 0);
     text-decoration: underline;
     text-decoration-line: none;
 }
