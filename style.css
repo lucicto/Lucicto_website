@@ -304,7 +304,7 @@ section {
     background: white;
     border-radius: 2rem;
     border: black 0.1rem solid;
-    border-color: blueviolet;
+    border-color: rgb(91, 89, 89);
     text-align: center;
 }
 
@@ -326,7 +326,7 @@ section {
 }
 
 .experience-sub-title {
-    color:aqua;
+    color:rgb(0, 0, 0);
     font-weight: 600;
     font-size: 1.75rem;
     margin-bottom: 2rem;
@@ -365,7 +365,7 @@ article.icon {
 }
 
 .color-container {
-    border-color: chocolate;
+    border-color: rgb(91, 89, 89);
     background: white;
 }
 
@@ -398,8 +398,8 @@ article.icon {
     display: flex;
     justify-content: center;
     border-radius: 2rem;
-    border: rgb(255, 0, 0) 0.08rem solid;
-    border-color: rgb(255, 0, 0);
+    border: rgb(91, 89, 89) 0.08rem solid;
+    border-color: rgb(91, 89, 89);
     background: (250, 250, 250);
     margin: 1rem auto;
     padding: 2rem;
